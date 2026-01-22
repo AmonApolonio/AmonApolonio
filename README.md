@@ -35,15 +35,3 @@ I enjoy solving problems, learning new tools, and creating projects that merge *
 
 - 👕 [**Zoomer Clothing**](https://github.com/AmonApolonio/Zoomer_Clothing)  
   Flutter e-commerce app template for clothing stores.  
-
----
-
-## 📈 GitHub Statistics  
-![Amon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amonapolonio&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amonapolonio&layout=compact&theme=tokyonight)  
-
----
-
-✨ Always learning, building, and sharing!  
-📫 Feel free to reach out and connect with me.  
